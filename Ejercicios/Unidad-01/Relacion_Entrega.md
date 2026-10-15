@@ -25,7 +25,7 @@
 - a) 1110000,0(2   112(10
 - b) 0110100,01(2  52,25(10
 
-![Ejercicio 1 al 4](\\wsl.localhost\Debian\home\Ivan\Curso_26-27_SI\Ejercicios\Unidad-01\images\1-4.jpg)
+![Ejercicio 1 al 4](\images\1-4.jpg)
 
 ### Ejercicio 5
 
@@ -34,7 +34,7 @@
 - c) (1)01000111(2
 - d) 00001111(2
 
-![Ejercicio 5 al 7](\\wsl.localhost\Debian\home\Ivan\Curso_26-27_SI\Ejercicios\Unidad-01\images\5-7.jpg)
+![Ejercicio 5 al 7](\images\5-7.jpg)
 
 ### Ejercicio 6
 
@@ -53,7 +53,7 @@
 - TiB: 1,82 TiB
 - df -H Linux: 2,0 TB
 
-![Ejercicio 6 al 8](\\wsl.localhost\Debian\home\Ivan\Curso_26-27_SI\Ejercicios\Unidad-01\images\6-8.jpg)
+![Ejercicio 6 al 8](\images\6-8.jpg)
 
 ### Ejercicio 9
 
@@ -65,4 +65,4 @@
 - S = (A + C)´ + B*C
 - Soluciones para S en ABC: 000, 010, 011, 111
 
-![Ejercicio 9 y 10](\\wsl.localhost\Debian\home\Ivan\Curso_26-27_SI\Ejercicios\Unidad-01\images\9-10.jpg)
+![Ejercicio 9 y 10](\images\9-10.jpg)
